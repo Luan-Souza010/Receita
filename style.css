@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: yellow;
+}
+
+img {
+  width: 98vw;
+  height: 50vh;
+  margin: 10px;
+}
+
+ul {
+  margin: 20px;
+}/*# sourceMappingURL=style.css.map */
