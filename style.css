@@ -5,15 +5,26 @@
 }
 
 body {
-  background-color: yellow;
+  background-color: rgb(210, 210, 36);
+  font-family: "Montserrat", sans-serif;
 }
 
 img {
-  width: 98vw;
+  width: 96vw;
   height: 50vh;
   margin: 10px;
 }
 
 ul {
   margin: 20px;
+}
+
+h1 {
+  font-family: "Montagu Slab", serif;
+  color: beige;
+}
+
+main {
+  border: solid;
+  padding-left: 20px;
 }/*# sourceMappingURL=style.css.map */

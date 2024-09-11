@@ -6,14 +6,30 @@
 }
 
 body{
-    background-color: yellow;
+    background-color: rgb(210, 210, 36);
+    font-family: "Montserrat", sans-serif;
 }
 
 img{
-    width: 98vw;
+    width: 96vw;
     height: 50vh;
     margin: 10px;
 }
 ul{
     margin: 20px;
+}
+
+h1{
+    font-family: "Montagu Slab", serif;
+    color: beige
+}
+
+main{
+    border: solid;
+    // 1 valor será aplicado para os 4 lados
+    // 2 valores serão aplicados para:
+    // primeiro valor top, bottom, segundo para lados
+    //padding: 20px 10px 80px 0;
+    // top, lef, bottom, right
+    padding-left: 20px;
 }
